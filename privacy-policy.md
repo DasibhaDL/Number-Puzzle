@@ -1,4 +1,3 @@
-rivacy Policy
 This privacy policy applies to the Number Puzzle app (hereby referred to as "Application") for mobile devices that was created by Dasibha DL (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 
